@@ -4,6 +4,8 @@ A portfolio website is a personal or professional online space that showcases yo
 
 📬 Contact
 
-Email: your.email@example.com 
-LinkedIn: linkedin.com/in/yourprofile 
+Email: your.email@example.com
+<br>
+LinkedIn: linkedin.com/in/yourprofile
+<br>
 GitHub: github.com/yourusername
